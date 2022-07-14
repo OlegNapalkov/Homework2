@@ -1,0 +1,15 @@
+I:\Geekbrains\Homework2_(14.07.2022)\task15\bin\Debug\net6.0\task15.exe
+I:\Geekbrains\Homework2_(14.07.2022)\task15\bin\Debug\net6.0\task15.deps.json
+I:\Geekbrains\Homework2_(14.07.2022)\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+I:\Geekbrains\Homework2_(14.07.2022)\task15\bin\Debug\net6.0\task15.dll
+I:\Geekbrains\Homework2_(14.07.2022)\task15\bin\Debug\net6.0\task15.pdb
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.dll
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\refint\task15.dll
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.pdb
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+I:\Geekbrains\Homework2_(14.07.2022)\task15\obj\Debug\net6.0\ref\task15.dll
